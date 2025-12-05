@@ -32,16 +32,16 @@ Currently completing my thesis on **nanoscale tribology using HPC**, while simul
 
 Here are some highlights from my technical portfolio:
 
-- **[PDF Generation Library](https://github.com/ghovax)** - Full-stack document processing system
-- **[BeQuire](https://github.com/ghovax)** - Full-stack educational platform
-- **[Game Engine Server](https://github.com/ghovax)** - Real-time multiplayer game infrastructure
-- **[DFT Helium Simulation (Julia)](https://github.com/ghovax)** - Quantum mechanics simulation
-- **[Desktop Mascots (macOS)](https://github.com/ghovax)** - Native macOS application
-- **[MNIST on Arduino](https://github.com/ghovax)** - Embedded ML system
-- **[Tobii Reverse Engineering](https://github.com/ghovax)** - Hardware integration project
-- **[Math Library (Haskell)](https://github.com/ghovax)** - Functional programming approach
-- **[Anki Levels Extension](https://github.com/ghovax)** - Browser extension development
-- **[Lattice Plot (Mathematica)](https://github.com/ghovax)** - Scientific visualization
+- **[PDF Generation Library](https://ghovax.github.io/blog/pdf-generation-library)** - Full-stack document processing system
+- **[Bequire](https://ghovax.github.io/blog/bequire-full-stack)** - Full-stack educational platform
+- **[Game Engine Server](https://ghovax.github.io/blog/game-engine-server)** - Real-time multiplayer game infrastructure
+- **[DFT Helium Simulation (Julia)](https://ghovax.github.io/blog/dft-helium-julia)** - Quantum mechanics simulation
+- **[Desktop Mascots (macOS)](https://ghovax.github.io/blog/desktop-mascots-macos)** - Native macOS application
+- **[MNIST on Arduino](https://ghovax.github.io/blog/mnist-arduino)** - Embedded ML system
+- **[Tobii Reverse Engineering](https://ghovax.github.io/blog/tobii-reverse-engineering)** - Hardware integration project
+- **[Math Library (Haskell)](https://ghovax.github.io/blog/math-library-haskell)** - Functional programming approach
+- **[Anki Levels Extension](https://ghovax.github.io/blog/anki-levels-extension)** - Browser extension development
+- **[Lattice Plot (Mathematica)](https://ghovax.github.io/blog/lattice-plot-mathematica)** - Scientific visualization
 
 ## 🎓 Education
 
