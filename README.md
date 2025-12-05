@@ -20,7 +20,7 @@ Currently completing my thesis on **nanoscale tribology using HPC**, while simul
 - **Frameworks & Libraries**: React • Next.js • Node.js • REST APIs
 - **Cloud & DevOps**: Google Cloud Storage (GCS) • Firebase/Firestore • Docker • MongoDB
 - **Tools**: Git/GitHub • CI/CD • Embedded Systems
-- 
+
 ### Scientific Computing
 
 - **Domains**: Computational Materials Science • HPC • Numerical Analysis • Molecular Dynamics • DFT • Machine Learning Potentials (MLPs) • Multiscale Simulations • Nanoscale Tribology • Large-Scale Data Pipelines
