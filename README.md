@@ -4,8 +4,7 @@
 
 ## 🔬 About Me
 
-I'm a computational physicist with a Master's in Material Physics and Nanoscience from the University of Bologna, specializing in materials modeling, molecular dynamics, and machine learning. My work bridges the gap between theoretical physics and practical software development.
-Currently completing my thesis on **nanoscale tribology using HPC**, while simultaneously leading technical development for an EdTech startup. I'm passionate about connecting theory with practical application—from coding physical simulations to building software products and visualizing complex data.
+I'm a computational physicist with a Master's in Material Physics and Nanoscience from the University of Bologna, specializing in materials modeling, molecular dynamics, and machine learning. My work bridges the gap between theoretical physics and practical software development. Currently completing my thesis on **nanoscale tribology using HPC**, while simultaneously leading technical development for an EdTech startup project. I'm passionate about connecting theory with practical application—from coding physical simulations to building software products and visualizing complex data.
 
 - 🎯 **Seeking**: Research or industry roles where I can apply my programming and development skills to solve real-world problems in materials science, technology, education, and adjacent fields.
 - 📧 **Contact**: [giovannigravili112@gmail.com](mailto:giovannigravili112@gmail.com)  
