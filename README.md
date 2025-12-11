@@ -33,4 +33,4 @@ I enjoy connecting theory and practical application—whether through writing co
 
 ## 🌟 Core Strengths
 
-✨ **Adaptability** • **Teamwork & Inclusivity** • **Robust Code Practices** • **Communication** • **Rapid Learning**
+✨ *Adaptability* • *Teamwork & Inclusivity* • *Robust Code Practices* • *Communication* • *Rapid Learning*
