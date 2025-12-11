@@ -12,10 +12,11 @@ I enjoy connecting theory and practical application—whether through writing co
 
 ## 👨🏻‍🔬 Connect With Me
 
-- 🎯 **Seeking**: Research or industry roles where I can apply my programming and development skills to solve real-world problems in materials science, technology, education, and adjacent fields.
+- 🎯 **Seeking Roles**: Research or industry roles where I can apply my programming and development skills to solve real-world problems in materials science, technology, education, and adjacent fields.
 - 📧 **Contact**: [giovannigravili112@gmail.com](mailto:giovannigravili112@gmail.com)  
 - 🔗 **LinkedIn**: [linkedin.com/in/giovanni-gravili](https://linkedin.com/in/giovanni-gravili)  
 - 📄 **CV / Resume**: [View My Resume](https://drive.google.com/file/d/1yUgeBOnbC9-Zk6ECqg-7DrkrLLJFQHkF/view?usp=sharing)
+- 💼 **Digital Portfolio:** [View My Portfolio](https://ghovax.github.io)
 
 ## 💻 Technical Skills & Stack
 
