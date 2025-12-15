@@ -1,6 +1,6 @@
 # Hi, I'm Giovanni Gravili 👋
 
-_**R&D-Oriented Computational Physicist**_ • _**Full-Stack Development**_ • Materials Science • Machine Learning
+_**R&D-Oriented Computational Physicist**_ • _**MLOps & Full-Stack Developer**_ • Materials Science • Machine Learning
 
 ## 🔬 About Me
 
@@ -15,7 +15,7 @@ I enjoy connecting theory and practical application—whether through writing co
 - 🎯 **Seeking Roles**: Research or industry roles where I can apply my programming and development skills to solve real-world problems in materials science, technology, education, and adjacent fields.
 - 📧 **Contact**: [giovannigravili112@gmail.com](mailto:giovannigravili112@gmail.com)  
 - 🔗 **LinkedIn**: [linkedin.com/in/giovanni-gravili](https://linkedin.com/in/giovanni-gravili)  
-- 📄 **CV / Resume**: [View My Resume](https://drive.google.com/file/d/18zvCTV1tNHtrGgyqNtqThmkyAOKCyPxF/view?usp=sharing)
+- 📄 **CV / Resume**: [View My Resume](https://drive.google.com/file/d/1b0ztHoRCSmQ3Lwzx3XSAxSE8ymQUJJek/view?usp=sharing)
 - 💼 **Digital Portfolio:** [View My Portfolio](https://ghovax.github.io)
 
 ## 💻 Technical Skills & Stack
