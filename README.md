@@ -97,3 +97,7 @@ I follow Formula 1 and MotoGP racing.
 - 🔗 **LinkedIn:** [linkedin.com/in/giovanni-gravili](https://www.linkedin.com/in/giovanni-gravili)
 - 🌐 **GitHub:** [github.com/ghovax](https://github.com/ghovax)
 - 📄 **CV / Resume**: [View My Resume](https://drive.google.com/file/d/15groBVHbU8bH3PS5016e13TJaX3JqKiJ/view?usp=sharing)
+
+## 👨🏻‍🏫 Projects
+
+Below you may find a collection of write-ups about my research projects.
