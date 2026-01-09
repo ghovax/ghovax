@@ -8,8 +8,6 @@ Bologna, Italy, (+39) 366 4207296, giovannigravili112@gmail.com
 * **Open-source author and contributor** — I worked on complex codebases for thousands of users and managed the software lifecycle, from architecting HPC data pipelines to managing cloud backends and infrastructure (Node.js, gRPC, Redis, GCP, AWS).
 * **Former startup Engineering Lead** — I built production-grade tools and extensive infrastructure, delivering sophisticated multi-agent AI systems (RAG, LLMs) and robust backend logic supported by extensive documentation.
 
-- 💼 **Digital Portfolio**: [View My Portfolio](https://ghovax.github.io)
-
 ### 🛠 Technical Skills
 
 * **Languages:** Python, C/C++, Rust, TypeScript/JS, Go, SQL, Bash
@@ -59,3 +57,4 @@ _Architected high-throughput Python pipelines to process GB-scale data on LEONAR
 - 🔗 **LinkedIn:** [linkedin.com/in/giovanni-gravili](https://www.linkedin.com/in/giovanni-gravili)
 - 🌐 **GitHub:** [github.com/ghovax](https://github.com/ghovax)
 - 📄 **CV / Resume**: [View My Resume](https://drive.google.com/file/d/18gRhSSLwmUjEi_qGgUBQnrDwnmh8po2H/view?usp=sharing)
+- 💼 **Digital Portfolio**: [View My Portfolio](https://ghovax.github.io)
