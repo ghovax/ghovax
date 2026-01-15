@@ -8,7 +8,6 @@
 * 📱 **Phone:** (+39) 366 4207296
 * 📧 **Email:** [giovannigravili112@gmail.com](mailto:giovannigravili112@gmail.com)
 * 🔗 **LinkedIn:** [linkedin.com/in/giovanni-gravili](https://www.linkedin.com/in/giovanni-gravili)
-* 🐙 **GitHub:** [github.com/ghovax](https://github.com/ghovax)
 
 ### 📖 Professional Summary
 
